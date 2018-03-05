@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BoletimApp</string>
+    <string name="disciplina">Disciplina</string>
+    <string name="nota1">Nota 1</string>
+    <string name="nota2">Nota 2</string>
+    <string name="label_disciplina">Digite a disciplina</string>
+    <string name="label_nota1">Digite a nota 1</string>
+    <string name="label_nota2">Digite a nota 2</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="enviar">Enviar</string>
+</resources>
